@@ -1,7 +1,12 @@
 class StaticPagesController < ApplicationController
 
   def index
-    @nome = "Julio"
+  end
+
+  def sobre
+  end
+
+  def contato
   end
 
 end
